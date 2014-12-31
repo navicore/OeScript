@@ -1,0 +1,5 @@
+#!/bin/sh
+
+dot -Tpng infrastructure.gv -o out/infrastructure.png
+dot -Tpng space.gv -o out/space.png
+
