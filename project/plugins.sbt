@@ -9,5 +9,5 @@ addSbtPlugin("org.brianmckenna" % "sbt-wartremover" % "0.14")
 resolvers += "jgit-repo" at "http://download.eclipse.org/jgit/maven"
 addSbtPlugin("com.typesafe.sbt" % "sbt-git" % "0.6.4")
 
-addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "0.5.2")
+addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.9.0")
 
